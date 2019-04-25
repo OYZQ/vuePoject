@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf33a02-9c1b-4d09-a8b7-a4e447c06658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/lib/04.事件修饰符.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01/lib/03.跑马灯效果.html" afterPath="$PROJECT_DIR$/01/lib/03.跑马灯效果.html" />
     </list>
     <list id="63aee040-00b3-4281-9af0-84d42193c683" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="vuePoject.iws" />
@@ -31,28 +29,28 @@
       <file leaf-file-name="02.v-cloak的学习.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01/lib/02.v-cloak的学习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.跑马灯效果.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01/lib/03.跑马灯效果.html">
+      <file leaf-file-name="04.事件修饰符.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01/lib/04.事件修饰符.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65505224">
-              <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+            <state vertical-scroll-proportion="3.2961671">
+              <caret line="86" column="7" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.跑马灯效果.html" pinned="false" current-in-tab="false">
-        <entry file="file://G:/文件/vue/day1/代码/code/03.跑马灯效果.html">
+      <file leaf-file-name="04.事件修饰符.html" pinned="false" current-in-tab="false">
+        <entry file="file://G:/文件/vue/day1/代码/code/04.事件修饰符.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.774194">
-              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="25" />
+            <state vertical-scroll-proportion="-1.483871">
+              <caret line="44" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -76,6 +74,7 @@
         <option value="$PROJECT_DIR$/01/lib/01.Vue的基本代码.html" />
         <option value="$PROJECT_DIR$/01/lib/02.v-cloak的学习.html" />
         <option value="$PROJECT_DIR$/01/lib/03.跑马灯效果.html" />
+        <option value="$PROJECT_DIR$/01/lib/04.事件修饰符.html" />
       </list>
     </option>
   </component>
@@ -339,7 +338,7 @@
     </entry>
     <entry file="file://G:/文件/vue/day1/代码/code/03.跑马灯效果.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.774194">
+        <state vertical-scroll-proportion="0.68989545">
           <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="25" />
           <folding />
         </state>
@@ -347,8 +346,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01/lib/03.跑马灯效果.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65505224">
+        <state vertical-scroll-proportion="-12.129032">
           <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day1/代码/code/04.事件修饰符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.483871">
+          <caret line="44" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/lib/04.事件修饰符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.2961671">
+          <caret line="86" column="7" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
           <folding />
         </state>
       </provider>
