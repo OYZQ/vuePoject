@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="lib/vue.min.js"></script>
+</head>
+<body>
+<div id="app">
+    <p>{{ msg | msgFormat('纳尼吖') | test}}</p>
+</div>
+<script>
+
+    // 定义一个 Vue 全局的过滤器，名字叫做  msgFormat
+    Vue.filter('msgFormat', function (msg,arg) {
+        // 字符串的  replace 方法，第一个参数，除了可写一个 字符串之外，还可以定义一个正则
+       return msg.replace(/什么/g,arg)
+    })
+
+    Vue.filter('test', function (msg) {
+        return msg + '==========='
+    })
+    var vam = new Vue({
+        el:'#app',
+        data:{
+            msg:'你在干什么哦,什么什么哦，到底干什么哦'
+        },
+        methods:{
+
+        }
+
+    })
+</script>
+</body>
+</html>

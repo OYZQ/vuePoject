@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf33a02-9c1b-4d09-a8b7-a4e447c06658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/lib/12.v-for迭代数字.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/lib/13.v-for循环中key属性的使用.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/lib/14.v-if和v-show的使用.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/lib/15.今天内容的总结和回顾.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/01.品牌列表案例.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/03.过滤器的基本使用.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/lib/vue.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01/lib/05.v-mode指令的学习.html" afterPath="$PROJECT_DIR$/01/lib/05.v-model指令的学习.html" />
     </list>
     <list id="63aee040-00b3-4281-9af0-84d42193c683" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="vuePoject.iws" />
@@ -30,41 +29,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="14.v-if和v-show的使用.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01/lib/14.v-if和v-show的使用.html">
+      <file leaf-file-name="02.品牌列表案例2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02/02.品牌列表案例2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.548388">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state vertical-scroll-proportion="-11.419354">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15.今天内容的总结和回顾.html" pinned="false" current-in-tab="false">
-        <entry file="file://G:/文件/vue/day1/代码/code/15.今天内容的总结和回顾.html">
+      <file leaf-file-name="03.过滤器的基本使用.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02/03.过滤器的基本使用.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.34494773">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15.今天内容的总结和回顾.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01/lib/15.今天内容的总结和回顾.html">
+      <file leaf-file-name="03.过滤器的基本使用.html" pinned="false" current-in-tab="false">
+        <entry file="file://G:/文件/vue/day2/代码/code/03.过滤器的基本使用.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6132404">
-              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state vertical-scroll-proportion="-13.4838705">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14.v-if和v-show的使用.html" pinned="false" current-in-tab="false">
-        <entry file="file://G:/文件/vue/day1/代码/code/14.v-if和v-show的使用.html">
+      <file leaf-file-name="02.品牌列表案例2.html" pinned="false" current-in-tab="false">
+        <entry file="file://G:/文件/vue/day2/代码/code/02.品牌列表案例2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.064516">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="45" />
+            <state vertical-scroll-proportion="-3.612903">
+              <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="273" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -106,6 +105,9 @@
         <option value="$PROJECT_DIR$/01/lib/13.v-for循环中key属性的使用.html" />
         <option value="$PROJECT_DIR$/01/lib/14.v-if和v-show的使用.html" />
         <option value="$PROJECT_DIR$/01/lib/15.今天内容的总结和回顾.html" />
+        <option value="$PROJECT_DIR$/02/01.品牌列表案例.html" />
+        <option value="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
+        <option value="$PROJECT_DIR$/02/03.过滤器的基本使用.html" />
       </list>
     </option>
   </component>
@@ -169,11 +171,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
+              <option name="myItemId" value="02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="vuePoject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuePoject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -186,11 +194,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="H:\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.splitter.proportion" value="0.23483366" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/文件/vue/day1/代码/code/07.vue中样式-class.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\vuePoject\02\lib" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -255,7 +268,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -315,7 +328,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="2019/4/27" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -578,14 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/14.v-if和v-show的使用.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.064516">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01/lib/14.v-if和v-show的使用.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.548388">
@@ -604,8 +611,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01/lib/15.今天内容的总结和回顾.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6132404">
+        <state vertical-scroll-proportion="-11.354838">
           <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day1/代码/code/14.v-if和v-show的使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65156794">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/lib/vue.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day2/代码/code/lib/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5245901">
+          <caret line="144" column="26" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day2/代码/code/01.品牌列表案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="119" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/01.品牌列表案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4250871">
+          <caret line="135" column="39" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day2/代码/code/02.品牌列表案例2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.612903">
+          <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="273" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day2/代码/code/03.过滤器的基本使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.4838705">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/02.品牌列表案例2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.419354">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/03.过滤器的基本使用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34494773">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>

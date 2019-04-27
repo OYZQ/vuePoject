@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="lib/vue.min.js"></script>
+</head>
+<body>
+<div id="app"></div>
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{},
+        methods:{}
+    })
+
+    // 过滤器的定义语法
+    // Vue.filter('过滤器的名称', function(){})
+
+    // 过滤器中的 function ，第一个参数，已经被规定死了，永远都是 过滤器 管道符前面 传递过来的数据
+    /* Vue.filter('过滤器的名称', function (data) {
+     return data + '123'
+     }) */
+</script>
+</body>
+</html>
+<!-- 过滤器调用时候的格式    {{ name | 过滤器的名称 }} -->
