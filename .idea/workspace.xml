@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf33a02-9c1b-4d09-a8b7-a4e447c06658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/01.品牌列表案例.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/03.过滤器的基本使用.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/lib/vue.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02/02.品牌列表案例2.html" afterPath="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
     </list>
     <list id="63aee040-00b3-4281-9af0-84d42193c683" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="vuePoject.iws" />
@@ -29,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02.品牌列表案例2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="02.品牌列表案例2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02/02.品牌列表案例2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.419354">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state vertical-scroll-proportion="-1.8170732">
+              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.过滤器的基本使用.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03.过滤器的基本使用.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02/03.过滤器的基本使用.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34494773">
+            <state vertical-scroll-proportion="-6.387097">
               <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
@@ -63,7 +59,7 @@
         <entry file="file://G:/文件/vue/day2/代码/code/02.品牌列表案例2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.612903">
-              <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="273" selection-end-column="9" />
+              <caret line="139" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="286" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -106,8 +102,8 @@
         <option value="$PROJECT_DIR$/01/lib/14.v-if和v-show的使用.html" />
         <option value="$PROJECT_DIR$/01/lib/15.今天内容的总结和回顾.html" />
         <option value="$PROJECT_DIR$/02/01.品牌列表案例.html" />
-        <option value="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
         <option value="$PROJECT_DIR$/02/03.过滤器的基本使用.html" />
+        <option value="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
       </list>
     </option>
   </component>
@@ -657,14 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/文件/vue/day2/代码/code/02.品牌列表案例2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.612903">
-          <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="273" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://G:/文件/vue/day2/代码/code/03.过滤器的基本使用.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.4838705">
@@ -673,18 +661,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/02.品牌列表案例2.html">
+    <entry file="file://$PROJECT_DIR$/02/03.过滤器的基本使用.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.419354">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state vertical-scroll-proportion="-6.387097">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/03.过滤器的基本使用.html">
+    <entry file="file://G:/文件/vue/day2/代码/code/02.品牌列表案例2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34494773">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state vertical-scroll-proportion="-3.612903">
+          <caret line="139" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="286" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02/02.品牌列表案例2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8170732">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
