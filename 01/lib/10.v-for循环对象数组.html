@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="node_modules/vue/dist/vue.min.js"></script>
+</head>
+<body>
+<div id="app">
+    <p v-for="(user,i) in list">第{{ user.id }}个：  {{ user.name }}   索引是：{{ i }}</p>
+</div>
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{
+            list:[
+                {id:1,name:'zs1'},
+                {id:2,name:'zs2'},
+                {id:3,name:'zs3'},
+                {id:4,name:'zs4'},
+                {id:5,name:'zs5'}
+            ]
+        },
+        methods:{
+
+        }
+    })
+</script>
+</body>
+</html>
