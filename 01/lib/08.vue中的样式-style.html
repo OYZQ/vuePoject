@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="node_modules/vue/dist/vue.min.js"></script>
+</head>
+<body>
+<div id="app">
+    <!-- 对象就是无序键值对的集合 -->
+    <h1 :style=[styleObj1,styleObj2]>这还是一个h1</h1>
+</div>
+
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{
+            styleObj1:{ color :'red','font-weight':200},
+            styleObj2:{'font-style':'italic'}
+        },
+        methods:{
+
+        }
+    })
+</script>
+</body>
+</html>
