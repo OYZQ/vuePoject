@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf33a02-9c1b-4d09-a8b7-a4e447c06658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/01.vue-resource改造品牌列表案例.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/02.动画-不使用动画.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/03.动画-使用过渡类名实现动画.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/04.动画-修改v-前缀.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/bootstrap-3.3.7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/vue-2.4.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/vue-resource-1.3.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/06.动画-使用钩子函数，模拟小球半场动画.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/07.动画-列表动画.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/08.组件-创建组件的方式1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/09.组件-创建组件的方式2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/10.组件-创建组件的方式3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/11.组件-组件中的data和methods.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/12.组件-why components data must be a function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/13.组件切换-方式1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/14.组件切换-方式2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/15.组件切换-切换动画.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="63aee040-00b3-4281-9af0-84d42193c683" name="Rejected commit: Default" comment="Rejected commit: Default" />
@@ -34,31 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04.动画-修改v-前缀.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03/04.动画-修改v-前缀.html">
+      <file leaf-file-name="15.组件切换-切换动画.html" pinned="false" current-in-tab="false">
+        <entry file="file://G:/文件/vue/day3/代码/code/15.组件切换-切换动画.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="11.290322">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05.动画使用第三方类实现动画.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html">
+      <file leaf-file-name="15.组件切换-切换动画.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03/15.组件切换-切换动画.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.68989545">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05.动画-使用第三方类实现动画.html" pinned="false" current-in-tab="false">
-        <entry file="file://G:/文件/vue/day3/代码/code/05.动画-使用第三方类实现动画.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.935484">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="77" />
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -112,6 +103,17 @@
         <option value="$PROJECT_DIR$/03/03.动画-使用过渡类名实现动画.html" />
         <option value="$PROJECT_DIR$/03/04.动画-修改v-前缀.html" />
         <option value="$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html" />
+        <option value="$PROJECT_DIR$/03/06.动画-使用钩子函数，模拟小球半场动画.html" />
+        <option value="$PROJECT_DIR$/03/07.动画-列表动画.html" />
+        <option value="$PROJECT_DIR$/03/09.组件-创建组件的方式.html" />
+        <option value="$PROJECT_DIR$/03/09.组件-创建组件的方式2.html" />
+        <option value="$PROJECT_DIR$/03/08.组件-创建组件的方式1.html" />
+        <option value="$PROJECT_DIR$/03/10.组件-创建组件的方式3.html" />
+        <option value="$PROJECT_DIR$/03/11.组件-组件中的data和methods.html" />
+        <option value="$PROJECT_DIR$/03/12.组件-why components data must be a function.html" />
+        <option value="$PROJECT_DIR$/03/13.组件切换-方式1.html" />
+        <option value="$PROJECT_DIR$/03/14.组件切换-方式2.html" />
+        <option value="$PROJECT_DIR$/03/15.组件切换-切换动画.html" />
       </list>
     </option>
   </component>
@@ -329,147 +331,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01/lib/02.v-cloak的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/03.跑马灯效果.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68989545">
-          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/03.跑马灯效果.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.129032">
-          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/04.事件修饰符.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.080139376">
-          <caret line="44" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/day1/代码/code/05.v-model指令的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.193548">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/day1/代码/code/06.简易的计算器.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/06.简易的计算器.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6933798">
-          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/07.vue中的样式.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.774194">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/08.vue中样式-style.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.225806">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/08.vue中的样式-style.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.193548">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/09.v-for循环普通数组.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38327527">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/07.vue中样式-class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70905924">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/11.v-for循环对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6167247">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/10.v-for循环对象数组.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4216028">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/11.v-for循环对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8466899">
-          <caret line="31" column="7" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/12.v-for迭代数字.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.225806">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="14" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/04.事件修饰符.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4912893">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="65" />
-          <caret line="27" column="63" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/05.v-model指令的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19512194">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/12.v-for迭代数字.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.645162">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/13.v-for循环中key属性的使用.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.419354">
-          <caret line="54" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01/lib/13.v-for循环中key属性的使用.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4529617">
@@ -698,8 +559,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68989545">
+        <state vertical-scroll-proportion="-12.774194">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/06.动画-使用钩子函数模拟小球半场动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.225806">
+          <caret line="55" column="72" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/06.动画-使用钩子函数，模拟小球半场动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7665505">
+          <caret line="55" column="78" selection-start-line="55" selection-start-column="78" selection-end-line="55" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/07.动画-列表动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.064516">
+          <caret line="37" column="66" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/07.动画-列表动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.290322">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/08.组件-创建组件的方式1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.354838">
+          <caret line="16" column="0" selection-start-line="28" selection-start-column="3" selection-end-line="29" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/08.组件-创建组件的方式1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3641115">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/09.组件-创建组件的方式2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6132404">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/09.组件-创建组件的方式2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4599303">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/10.组件-创建组件的方式3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73170733">
+          <caret line="68" column="6" selection-start-line="48" selection-start-column="3" selection-end-line="68" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/11.组件-组件中的data和methods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.193548">
+          <caret line="20" column="50" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/11.组件-组件中的data和methods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1533101">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/10.组件-创建组件的方式3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65505224">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="n#template#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/12.组件-why components data must be a function.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.225806">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/12.组件-why components data must be a function.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.387097">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/13.组件切换-方式1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/13.组件切换-方式1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35365853">
+          <caret line="10" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/14.组件切换-方式2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5017422">
+          <caret line="21" column="65" selection-start-line="20" selection-start-column="2" selection-end-line="21" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/14.组件切换-方式2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.258064">
+          <caret line="17" column="65" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/15.组件切换-切换动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/15.组件切换-切换动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68989545">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding />
         </state>
       </provider>

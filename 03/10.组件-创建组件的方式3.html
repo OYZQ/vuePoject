@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="lib/vue-2.4.0.js"></script>
+</head>
+<body>
+<div id="app">
+    <mycom3></mycom3>
+</div>
+
+<div id="app2">
+    <mycom3></mycom3>
+    <login></login>
+</div>
+
+
+<!-- 在 被控制的 #app 外面,使用 template 元素,定义组件的HTML模板结构  -->
+<template id="tmpl1">
+    <div>
+        <h1>这是通过template元素，在外部定义的组件结构，这个方式，有代码的提示和高亮</h1>
+        <h4>好用，不错</h4>
+    </div>
+</template>
+
+<template id="tmpl2">
+    <h1>这是私有的login组件</h1>
+</template>
+
+<script>
+    Vue.component('mycom3',{
+        template:'#tmpl1'
+    })
+
+    var vm = new Vue({
+        el:'#app',
+        data:{},
+        methods:{}
+    })
+    var vm2 = new Vue({
+        el: '#app2',
+        data: {},
+        methods: {},
+        filters: {},
+        directives: {},
+        components: { // 定义实例内部私有组件的
+            login: {
+                template: '#tmpl2'
+            }
+        },
+
+        beforeCreate() { },
+        created() { },
+        beforeMount() { },
+        mounted() { },
+        beforeUpdate() { },
+        updated() { },
+        beforeDestroy() { },
+        destroyed() { }
+    })
+</script>
+</body>
+</html>
