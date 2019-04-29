@@ -2,319 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecf33a02-9c1b-4d09-a8b7-a4e447c06658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/04.生命周期函数演示.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/05.vue-resource基本使用.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/06.客户端JSONP页面.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/lib/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/lib/bootstrap-3.3.7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/lib/vue-2.4.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/lib/vue-resource-1.3.4.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-grid.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-grid.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-reboot.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.bundle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/dist/js/bootstrap.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/alert.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/button.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/carousel.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/collapse.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/dropdown.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/index.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/modal.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/popover.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/scrollspy.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/tab.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/toast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/toast.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/tooltip.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/dist/util.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/toast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/tools/sanitizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/js/src/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_button-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_card.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_custom-forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_images.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_input-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_root.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_spinners.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_toasts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_transitions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/bootstrap-grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/bootstrap-reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_box-shadow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_breakpoints.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_caret.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_deprecate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_float.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_hover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_lists.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_text-hide.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_text-truncate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_transition.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/mixins/_visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_align.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_background.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_borders.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_display.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_float.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_overflow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_position.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_screenreaders.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_shadows.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_sizing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_spacing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_stretched-link.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/utilities/_visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/_bootstrap@4.3.1@bootstrap/scss/vendor/_rfs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/dist/js/bootstrap.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/alert.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/button.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/carousel.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/collapse.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/dropdown.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/index.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/modal.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/popover.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/scrollspy.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/tab.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/toast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/toast.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/tooltip.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/dist/util.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/toast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/tools/sanitizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/js/src/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_button-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_card.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_custom-forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_images.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_input-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_root.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_spinners.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_toasts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_transitions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/bootstrap-grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_box-shadow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_breakpoints.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_caret.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_deprecate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_float.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_hover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_lists.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_text-hide.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_text-truncate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_transition.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/mixins/_visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_align.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_background.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_borders.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_display.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_float.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_overflow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_position.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_screenreaders.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_shadows.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_sizing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_spacing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_stretched-link.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/utilities/_visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02/lib/node_modules/bootstrap/scss/vendor/_rfs.scss" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/01.vue-resource改造品牌列表案例.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/02.动画-不使用动画.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/03.动画-使用过渡类名实现动画.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/04.动画-修改v-前缀.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/bootstrap-3.3.7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/vue-2.4.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/lib/vue-resource-1.3.4.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02/02.品牌列表案例2.html" afterPath="$PROJECT_DIR$/02/02.品牌列表案例2.html" />
     </list>
     <list id="63aee040-00b3-4281-9af0-84d42193c683" name="Rejected commit: Default" comment="Rejected commit: Default" />
     <ignored path="vuePoject.iws" />
@@ -337,21 +34,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="06.客户端JSONP页面.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02/06.客户端JSONP页面.html">
+      <file leaf-file-name="04.动画-修改v-前缀.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03/04.动画-修改v-前缀.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34494773">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="11.290322">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06.客户端JSONP页面.html" pinned="false" current-in-tab="false">
-        <entry file="file://G:/文件/vue/day2/代码/code/06.客户端JSONP页面.html">
+      <file leaf-file-name="05.动画使用第三方类实现动画.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8387096">
-              <caret line="4" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.68989545">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.动画-使用第三方类实现动画.html" pinned="false" current-in-tab="false">
+        <entry file="file://G:/文件/vue/day3/代码/code/05.动画-使用第三方类实现动画.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.935484">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -399,6 +106,12 @@
         <option value="$PROJECT_DIR$/02/04.生命周期函数演示.html" />
         <option value="$PROJECT_DIR$/02/05.vue-resource基本使用.html" />
         <option value="$PROJECT_DIR$/02/06.客户端JSONP页面.html" />
+        <option value="$PROJECT_DIR$/03/01.vue-resource改造品牌列表案例.html" />
+        <option value="$PROJECT_DIR$/03/lib/02.动画-不使用动画.html" />
+        <option value="$PROJECT_DIR$/03/02.动画-不使用动画.html" />
+        <option value="$PROJECT_DIR$/03/03.动画-使用过渡类名实现动画.html" />
+        <option value="$PROJECT_DIR$/03/04.动画-修改v-前缀.html" />
+        <option value="$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html" />
       </list>
     </option>
   </component>
@@ -442,7 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -461,7 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02" />
+              <option name="myItemId" value="03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -477,7 +190,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,7 +205,11 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/文件/vue/day1/代码/code/07.vue中样式-class.html" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\vuePoject\03" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\vuePoject\03\lib" />
       <recent name="H:\vuePoject\02\lib" />
     </key>
   </component>
@@ -600,89 +317,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/03/01.vue-resource改造品牌列表案例.html</url>
+          <line>84</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://G:/文件/day1/代码/code/06.简易的计算器.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/05.v-model指令的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/day1/代码/code/05.v-model指令的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/02.v-cloak的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/03.跑马灯效果.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/03.跑马灯效果.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/01.Vue的基本代码.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/02.v-cloak的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/node_modules/vue/dist/vue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/文件/vue/day1/代码/code/02.v-cloak的学习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="74" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/lib/01.Vue的基本代码.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19512194">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01/lib/02.v-cloak的学习.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -807,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19512194">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="91.48387">
           <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.290322">
           <caret line="54" column="83" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="83" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.645162">
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76655054">
           <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.903226">
           <caret line="42" column="59" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,13 +593,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.709678">
           <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://G:/文件/vue/day2/代码/code/06.客户端JSONP页面.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8387096">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
@@ -971,6 +608,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34494773">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/lib/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/01.vue-resource改造品牌列表案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.032258">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/01.vue-resource改造品牌列表案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75735295">
+          <caret line="119" column="7" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+          <folding>
+            <element signature="e#1943#2757#0" expanded="false" />
+            <element signature="e#2776#3669#0" expanded="false" />
+            <element signature="e#3690#3956#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/02.动画-不使用动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.37979093">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/03.动画-使用过渡类名实现动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.4838705">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/03.动画-使用过渡类名实现动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.935484">
+          <caret line="20" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/04.动画-修改v-前缀.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/04.动画-修改v-前缀.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.290322">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/02.动画-不使用动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.225806">
+          <caret line="13" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/文件/vue/day3/代码/code/05.动画-使用第三方类实现动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.935484">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/05.动画使用第三方类实现动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68989545">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding />
         </state>
       </provider>

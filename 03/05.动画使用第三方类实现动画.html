@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="lib/vue-2.4.0.js"></script>
+    <link rel="stylesheet" href="lib/animate.css">
+    <!-- 入场 bounceIn    离场 bounceOut -->
+</head>
+<body>
+<div id="app">
+    <input type="button" value="toogle" @click="flag=!flag">
+    <!--需求:点击按钮让H3显示，在点击让H3隐藏-->
+    <!--<transition enter-active-class="animated bounceIn" leave-active-class="animated bounceOut">-->
+        <!--<h3 v-if="flag">这是一个H3</h3>-->
+    <!--</transition>-->
+
+    <!-- 使用  :duration="{ enter: 200, leave: 400 }"  来分别设置 入场的时长 和 离场的时长  -->
+    <transition enter-active-class="bounceIn" leave-active-class="bounceOut" :duration="{ enter: 500, leave: 0 }">
+        <h3 v-if="flag" class="animated">这是一个H3</h3>
+    </transition>
+</div>
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{
+            flag:false
+        },
+        methods:{}
+    })
+</script>
+</body>
+</html>

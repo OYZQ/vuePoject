@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="lib/vue-2.4.0.js"></script>
+</head>
+<body>
+<div id="app">
+    <input type="button" value="toogle" @click="flag=!flag">
+    <!--需求:点击按钮让H3显示，在点击让H3隐藏-->
+    <h3 v-if="flag">这是一个H3</h3>
+</div>
+<script>
+    var vm = new Vue({
+        el:'#app',
+        data:{
+            flag:false
+        },
+        methods:{}
+    })
+</script>
+</body>
+</html>
